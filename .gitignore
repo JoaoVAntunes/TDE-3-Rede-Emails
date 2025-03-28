@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Dataset
+'Amostra Enron - 2016'/
+
 # Distribution / packaging
 .Python
 build/
